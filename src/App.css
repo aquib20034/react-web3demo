@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -23,7 +24,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.customStyle{
+  padding:"15px";
+  border-radius:"5px";
+  box-shadow:"1px 1px 3px #000000";
 
+}
 .App-link {
   color: #61dafb;
 }
